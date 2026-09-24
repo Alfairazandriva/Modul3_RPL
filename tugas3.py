@@ -1,4 +1,4 @@
-# main.py
+# program untuk menentukan apakah sebuah angka adalah genap atau ganjil
 angka = int(input("Masukkan sebuah angka: "))
 
 if angka % 2 == 0:
